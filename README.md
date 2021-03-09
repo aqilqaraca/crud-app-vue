@@ -1,4 +1,4 @@
-# project-contact
+# project-crud-contact
 
 ## Project setup
 ```
